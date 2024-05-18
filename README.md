@@ -10,3 +10,7 @@ and data engineering practices to handle real-world data workflows effectively.
 # Looker Studio Report
 ![report](https://github.com/KomnisEvangelos/ETL-Data-Pipeline-on-Google-Cloud-Platform/blob/master/Looker_Studio_Report.png)
 # Skills Demonstrated
+- API Interaction: Automated data extraction from OpenWeather API.
+- Data Manipulation: Utilized Python and Pandas to clean and transform data.
+- Cloud Services: Deployed automated ETL workflows to extract, process, and store data on production using GCP services like Cloud Functions, Cloud Scheduler, BigQuery, and Cloud Storage.
+- Data Visualization: Created an interactive dashboard using Looker Studio.
